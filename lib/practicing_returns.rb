@@ -11,3 +11,6 @@ def hello(array)
 end
 
 hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
+
+
+#this all bascially demonstrates how .collect works -- frustrating complex for such a simple enumerator
